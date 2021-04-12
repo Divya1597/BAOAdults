@@ -1,5 +1,5 @@
-[
- {
+{ "response": 
+ [{
    "id": 26037,
    "Park_Name": "History Park",
    "description": "There are galleries, historic buildings and a town as well as family activities, a cafe and museum store.",
@@ -117,5 +117,5 @@
    "Image": "JapaneseFriendshipGardenSanJose.jpg",
    "Directions": "Located in Kelley Park on Senter between Keyes and Phelan roads",
    "City": "San Jose"
- }
-]
+ }]
+}
