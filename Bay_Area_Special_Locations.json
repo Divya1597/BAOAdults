@@ -1,6 +1,6 @@
 {
   "response": [{
-      "objectId": "1",
+      "id": 1,
       "latitude": 45.102711,
       "longitude": -93.427376,
       "objectName": "TownHome 8063",
@@ -8,7 +8,7 @@
       "videoLink": "https://www.youtube.com/watch?v=orAznqWzops"
     },
     {
-      "objectId": "2",
+      "id": 2,
       "latitude": 45.10299155,
       "longitude": -93.43203486345581,
       "objectName": "Central Park",
@@ -16,7 +16,7 @@
       "videoLink": "https://www.youtube.com/watch?v=sqZ5-KPTPnU"
     },
     {
-      "objectId": "3",
+      "id": 3,
       "latitude": 45.09344695,
       "longitude": 93.42384956866408,
       "objectName": "Costco Wholesale",
@@ -24,7 +24,7 @@
       "videoLink": "https://www.youtube.com/watch?v=l0f5lwnDJDE"
     },
     {
-      "objectId": "4",
+      "id": 4,
       "latitude": 45.136486649999995,
       "longitude": -93.47489204123983,
       "objectName": "Target",
@@ -32,7 +32,7 @@
       "videoLink": "https://www.youtube.com/watch?v=lmZfksjU79A"
     },
     {
-      "objectId": "5",
+      "id": 5,
       "latitude": 45.07716355,
       "longitude": -93.39383247893039,
       "objectName": "Home Depot",
@@ -40,7 +40,7 @@
       "videoLink": "https://www.youtube.com/watch?v=THQFA2f_160"
     },
     {
-      "objectId": "6",
+      "id": 6,
       "latitude": 45.12452,
       "longitude": -93.4892092,
       "objectName": "Dollar Tree",
@@ -48,7 +48,7 @@
       "videoLink": "https://www.youtube.com/watch?v=R_wzBSlE9kg"
     },
     {
-      "objectId": "7",
+      "id": 7,
       "latitude": 45.0938175,
       "longitude": -93.43928395066015,
       "objectName": "Red Lobster",
@@ -56,7 +56,7 @@
       "videoLink": "https://www.youtube.com/watch?v=lAYGG4UIzQE"
     },
     {
-      "objectId": "8",
+      "id": 8,
       "latitude": 45.1044972,
       "longitude": -93.4629032,
       "objectName": "Applebee's",
@@ -64,7 +64,7 @@
       "videoLink": "https://www.youtube.com/watch?v=FxPqpsTzC5M"
     },
     {
-      "objectId": "9",
+      "id": 9,
       "latitude": 45.091352,
       "longitude": -93.4358459479242,
       "objectName": "Whole Foods",
@@ -72,7 +72,7 @@
       "videoLink": "https://www.youtube.com/watch?v=MQmLD34erEg"
     },
     {
-      "objectId": "10",
+      "id": 10,
       "latitude": 45.0945004,
       "longitude": -93.4418227,
       "objectName": "Arbor Lake",
