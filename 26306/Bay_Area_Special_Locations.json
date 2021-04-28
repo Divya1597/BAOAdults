@@ -3,56 +3,63 @@
       "id": 1,
       "latitude": 45.102711,
       "longitude": -93.427376,
-      "objectName": "TownHome 8063",
-      "objectType": "House",
+      "objectName": "Coyote Lake",
+      "objectImage": "https://i.pinimg.com/originals/74/0d/0b/740d0b0a92b6ee10314f1ee3f5426a37.jpg",
+      "objectType": "Lake",
       "videoLink": "https://www.youtube.com/watch?v=orAznqWzops"
     },
     {
       "id": 2,
       "latitude": 45.10299155,
       "longitude": -93.43203486345581,
-      "objectName": "Central Park",
-      "objectType": "Park",
+      "objectName": "Ash Tree",
+      "objectImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg",
+      "objectType": "Tree",
       "videoLink": "https://www.youtube.com/watch?v=sqZ5-KPTPnU"
     },
     {
       "id": 3,
       "latitude": 45.09344695,
       "longitude": 93.42384956866408,
-      "objectName": "Costco Wholesale",
-      "objectType": "Wholesale Market",
+      "objectName": "Bass Lake",
+      "objectImage": "https://madera.objects.liquidweb.services/photos/15250-landscape-bass-lake-ca-sm-byc-2-Header-1400x612.jpg",
+      "objectType": "Lake",
       "videoLink": "https://www.youtube.com/watch?v=l0f5lwnDJDE"
     },
     {
       "id": 4,
       "latitude": 45.136486649999995,
       "longitude": -93.47489204123983,
-      "objectName": "Target",
-      "objectType": "Retail Store",
+      "objectName": "Pastel Bird",
+      "objectImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1InDceFgRNJ5NXFMbxUiF43DvIPTxbbG_2A&usqp=CAU",
+      "objectType": "Bird",
       "videoLink": "https://www.youtube.com/watch?v=lmZfksjU79A"
     },
     {
       "id": 5,
       "latitude": 45.07716355,
       "longitude": -93.39383247893039,
-      "objectName": "Home Depot",
-      "objectType": "Home store",
+      "objectName": "Tulip Tree",
+      "objectImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4c52p7hecoG7l6dyOWek2IgRn5Q17AXb9deLMOd54dtCmyra9zRdrMu69v7J9jn1ftuI&usqp=CAU",
+      "objectType": "Tree",
       "videoLink": "https://www.youtube.com/watch?v=THQFA2f_160"
     },
     {
       "id": 6,
       "latitude": 45.12452,
       "longitude": -93.4892092,
-      "objectName": "Dollar Tree",
-      "objectType": "Low price retail store",
+      "objectName": "Song Bird",
+      "objectImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lNRGC_SbaIz7N5rHl6MUaKDHXm65dbtxsA&usqp=CAU",
+      "objectType": "Bird",
       "videoLink": "https://www.youtube.com/watch?v=R_wzBSlE9kg"
     },
     {
       "id": 7,
       "latitude": 45.0938175,
       "longitude": -93.43928395066015,
-      "objectName": "Red Lobster",
-      "objectType": "Restaurant",
+      "objectName": "Canton Lake",
+      "objectImage": "https://www.cantonillinois.org/vertical/Sites/%7B3A712A47-3D50-49B4-9E78-DBB8A8D0F159%7D/uploads/Canton_Lake_Pano.jpg",
+      "objectType": "Lake",
       "videoLink": "https://www.youtube.com/watch?v=lAYGG4UIzQE"
     }]
   
