@@ -1,9 +1,25 @@
 { "response": 
  [{
+   "id": 500,
+   "parkName": "Guadalupe Oak Grove Park",
+   "description": "Guadalupe Oak Grove Park is a 62 acre city of San Jose park and one of the last remaining large tracts of deciduous oak savanna and oak woodland in the Santa Clara Valley. You will see blue, coast live and valley oak trees along about two miles of mostly flat, dirt trails. There are a couple of small loops that take you uphill for views of the oak trees. This is a great place for birding because the oaks and nestboxes are home to cavity nesters like Chestnut-backed Chickadees, Oak Titmice, White-breasted Nuthatches, Bushtits, Lesser Goldfinches, Annas Hummingbirds and more. There are many Acorn Woodpecker granaries here as well. At the main park entrance, there are restrooms and picnic tables.",
+   "petPolicy": "Dogs must be on at most a 6-foot leash. Bicycles are allowed on all but the hill trails.",
+   "timings": "8 A.M. to sunset.",
+   "events": "Please check their website for a variety of events held at the park.",
+   "fare": "Free parking.",
+   "website": "https://www.bayareaolderadults.org/content/maps/guadalupe_oak_grove_park_map.pdf",
+   "address": "5982 Thorntree Dr, San Jose, CA 95120",
+   "accessibility": "There is one ADA parking spot and most of the trails are flat, hard-packed dirt or sand trails. The restroom and water fountain are wheelchair accessible.",
+   "phone": "",
+   "email": "",
+   "image": "https://www.bayareaolderadults.org/images/activities/GuadalupeOakGrovePark",
+   "directions": ">The main entrance and a 9 car parking lot is at 5982 Thorntree Dr, San Jose, CA 95120 but there is also an entrance near Golden Oak Way and near the intersection of Vargas Dr and Recife Way.&nbsp; There is street parking on Golden Oak Way.",
+   "city": "San Jose"
+ },{
    "id": 26037,
    "parkName": "History Park",
    "description": "There are galleries, historic buildings and a town as well as family activities, a cafe and museum store.",
-   "pePolicy": "",
+   "petPolicy": "",
    "timings": "Tuesday through Sunday 11:00 am to 4:00 pm except on holidays.",
    "events": "Please check their website for a variety of events held at the park.",
    "fare": "Admission is free from Tuesday to Friday, but parking costs $6 per vehicle.",
