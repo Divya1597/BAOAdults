@@ -10,8 +10,8 @@
     },
     {
       "id": 2,
-      "latitude": 45.10299155,
-      "longitude": -93.43203486345581,
+      "latitude": 50.10299155,
+      "longitude": -100.43203486345581,
       "objectName": "Ash Tree",
       "objectImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg",
       "objectType": "Tree",
