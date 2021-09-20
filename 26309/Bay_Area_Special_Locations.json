@@ -5,7 +5,7 @@
       "longitude": -93.427376,
       "objectName": "Coyote Lake",
       "objectImage": "https://i.pinimg.com/originals/74/0d/0b/740d0b0a92b6ee10314f1ee3f5426a37.jpg",
-      "objectType": "Lake",
+      "objectType": "Landscape",
       "videoLink": "https://www.youtube.com/watch?v=orAznqWzops"
     },
     {
@@ -14,7 +14,7 @@
       "longitude": -93.43203486345581,
       "objectName": "Ash Tree",
       "objectImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg",
-      "objectType": "Tree",
+      "objectType": "Plant",
       "videoLink": "https://www.youtube.com/watch?v=sqZ5-KPTPnU"
     },
     {
@@ -23,7 +23,7 @@
       "longitude": 93.42384956866408,
       "objectName": "Bass Lake",
       "objectImage": "https://madera.objects.liquidweb.services/photos/15250-landscape-bass-lake-ca-sm-byc-2-Header-1400x612.jpg",
-      "objectType": "Lake",
+      "objectType": "Landscape",
       "videoLink": "https://www.youtube.com/watch?v=l0f5lwnDJDE"
     }]
   
